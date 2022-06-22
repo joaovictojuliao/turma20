@@ -1,7 +1,7 @@
 def somaDoisValores(a,b):
 	return a + b
 
-print("Olá pessoal, vamos somar?")
+print("Olá Juliao, vamos somar?")
 
 num1 = int(input('Valor do primeiro número: '))
 num2 = int(input('Valor do segundo número: '))
